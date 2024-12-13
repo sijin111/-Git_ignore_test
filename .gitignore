@@ -79,7 +79,7 @@ local.properties
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+ 
 # Package Files #
 *.jar
 *.war
@@ -98,3 +98,6 @@ replay_pid*
 ##### commit 제외파일 #####
 /Git_ignore_test/src/main/java/nocommit_all/
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_3.java 
+.classpath
+.gitignore
+/Git_ignore_test/src/main/webapp/WEB-INF/web.xml
